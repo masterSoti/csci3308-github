@@ -1,2 +1,2 @@
-# csci3308-github
-LOLS
+Name: Suyog Soti
+Assignment: Lab 4
